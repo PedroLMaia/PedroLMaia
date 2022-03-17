@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋  Olá, meu nome é Pedro Luiz, sou estudante de analise e desenvolvimento de sistemas, cursando o 4 semestre pela universidade de Fortaleza.
 <div align="center">
   <a href="https://github.com/PedroLMaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
