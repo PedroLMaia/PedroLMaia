@@ -19,10 +19,10 @@
   ##
  
 <div> 
+  <a href = "https://pedro-luiz.vercel.app"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%2302a9ff?style=for-the-badge&logo=O&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_pedrolzmaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=i&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedrolmaia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=l&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedro-luiz-maia@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%230072C6?style=for-the-badge&logo=O&logoColor=white" target="_blank"></a>
-  <a href = "https://pedro-luiz.vercel.app"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%2302a9ff?style=for-the-badge&logo=O&logoColor=white" target="_blank"></a>
   
                                                 
 </div>
