@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <!-- Conteúdo da primeira div -->
     <a href="https://github.com/PedroLMaia">
       <img height="180em" src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,6 @@
     <a href="https://www.instagram.com/_pedrolzmaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=i&logoColor=white" target="_blank"></a>
   </div>
 </div>
-
 <!--
 **PedroLMaia/PedroLMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
