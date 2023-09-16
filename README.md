@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; width: 100%; align-items: center;">
+<div style="display: flex; flex-direction: column; width: 100%; margin: 0 auto;">
   <div style="flex-grow: 1;">
     <!-- Conteúdo da primeira div -->
     <a href="https://github.com/PedroLMaia">
@@ -14,6 +14,7 @@
     <a href="https://www.instagram.com/_pedrolzmaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=i&logoColor=white" target="_blank"></a>
   </div>
 </div>
+
 <!--
 **PedroLMaia/PedroLMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
