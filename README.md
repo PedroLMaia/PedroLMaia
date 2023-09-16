@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; width: 100%;">
+<div style="display: flex; flex-direction: column; width: 100%; align-items: center;">
   <div style="flex-grow: 1;">
     <!-- Conteúdo da primeira div -->
     <a href="https://github.com/PedroLMaia">
