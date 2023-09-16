@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; width: 100%; margin: 0 auto;">
-  <div style="flex-grow: 1;">
+  <div>
     <!-- Conteúdo da primeira div -->
     <a href="https://github.com/PedroLMaia">
       <img height="180em" src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
