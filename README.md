@@ -1,27 +1,15 @@
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 10px;">
-    <div style=" text-align: center;">
-      <img class="c1" height="180em"
-        src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-      <img class="c2" height="180em"
-        src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api/top-langs/?username=PedroLMaia&layout=compact&langs_count=7&theme=merko" />
-    </div>
-    <div style="text-align: center;
-      align-self: flex-start;">
-      <a href="https://portfolio-pedrolmaia.vercel.app"><img
-          src="https://img.shields.io/badge/-Portf%C3%B3lio-%2302a9ff?style=for-the-badge&logo=O&logoColor=white"
-          target="_blank"></a>
-      <a href="https://www.linkedin.com/in/pedrolmaia" target="_blank"><img
-          src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=l&logoColor=white"
-          target="_blank"></a>
-      <a href="mailto:pedro-luiz-maia@hotmail.com"><img
-          src="https://img.shields.io/badge/-Outlook-%230072C6?style=for-the-badge&logo=O&logoColor=white"
-          target="_blank"></a>
-      <a href="https://www.instagram.com/_pedrolzmaia/" target="_blank"><img
-          src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=i&logoColor=white"
-          target="_blank"></a>
-    </div>
-  </div>
+  <img class="c1" height="180em"
+    src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img class="c2" height="180em"
+    src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api/top-langs/?username=PedroLMaia&layout=compact&langs_count=7&theme=merko" />
+</div>
+
+<div style="text-align: center;">
+  <button onclick="window.open('https://portfolio-pedrolmaia.vercel.app', '_blank')" style="cursor: pointer;">Portfólio</button>
+  <button onclick="window.open('https://www.linkedin.com/in/pedrolmaia', '_blank')" style="cursor: pointer;">LinkedIn</button>
+  <button onclick="window.open('mailto:pedro-luiz-maia@hotmail.com', '_blank')" style="cursor: pointer;">Email</button>
+  <button onclick="window.open('https://www.instagram.com/_pedrolzmaia/', '_blank')" style="cursor: pointer;">Instagram</button>
 </div>
 <!--
 **PedroLMaia/PedroLMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
