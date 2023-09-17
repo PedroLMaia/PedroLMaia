@@ -9,10 +9,6 @@
   <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/b2322d43a5f784da45e47def870b1fb00be5a358/Onda.svg" width="1000" height="120">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/22367c8985e4ca216d6088f9fbdbccfe3f4ba1e0/Ondas.svg" width="100%" height="110">
-</p>
-
 ##
  
 <div p align="center"> 
