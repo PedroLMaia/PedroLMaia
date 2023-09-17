@@ -24,5 +24,5 @@ Welcome to my GitHub profile! I'm a Brazilian software engineer specializing in 
 
 # Snake
 <div align="center">
-    <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/b97c4a976e9a1d51e2f89fa08db77a19fb0e7db8/github-contribution-grid-snake.svg" alt="snake gif">
+    <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/fa35f647c0a17afba26a3277fde9a5978ce579ce/github-contribution-grid-snake.svg" alt="snake gif">
 </div>
