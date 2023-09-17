@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api/top-langs/?username=PedroLMaia&layout=compact&langs_count=7&theme=merko" width="300" height="190">
+  <span style="display: inline-block; width: 35px;"></span>
   <img src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true" width="460" height="190">
 </p>
 
