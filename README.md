@@ -8,7 +8,6 @@ margin: 0;">
   align-items: center;
   padding: 10px;
   border-radius: 10px;">
-  
       <div style=" text-align: center;">
           <img class="c1" height="180em"
           src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
