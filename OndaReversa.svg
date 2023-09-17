@@ -5,10 +5,10 @@
   viewBox="0 24 150 28"
   preserveAspectRatio="none"
   shape-rendering="auto"
-  style="transform: scaleX(-1);"
+  style="transform: scale(-1, -1);"
 >
   <defs>
-    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 v44h-352z" />
+    <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
   </defs>
   <g class="parallax">
     <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(50, 205, 50, 0.4)" />
@@ -28,7 +28,7 @@
       border-radius: 25px;
     }
     .parallax>use {
-      animation: move-forever 25s linear infinite;      
+      animation: move-forever 25s cubic-bezier(.55, .5, .45, .5) infinite;      
     }
     .parallax>use:nth-child(1) {
       animation-delay: -2s;
@@ -48,11 +48,12 @@
     }
     @keyframes move-forever {
       0% {
-        transform: translateX(-90px);
+        transform: translate3d(85px, 0, 0);
       }
       100% {
-        transform: translateX(100%);
+        transform: translate3d(-90px, 0, 0);
       }
     }
   </style>
+
 </svg>
