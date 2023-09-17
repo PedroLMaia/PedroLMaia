@@ -21,3 +21,6 @@ Welcome to my GitHub profile! I'm a Brazilian software engineer specializing in 
   <a href="https://www.instagram.com/_pedrolzmaia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2332CD32?style=for-the-badge&logo=i&logoColor=white" target="_blank"></a>                                   
   <a href = "mailto:pedro-luiz-maia@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%2332CD32?style=for-the-badge&logo=l&logoColor=white" target="_blank"></a>
 </div>
+
+# Snake commits
+![snake gif](https://github.com/PedroLMaia/PedroLMaia/blob/output/github-contribution-grid-snake.svg)
