@@ -1,5 +1,37 @@
 </head>
+
 <body>
+  <Style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 10px;
+      border-radius: 10px;
+    }
+    .box1 {
+      text-align: center;
+    }
+    .box2 {
+      text-align: center;
+      align-self: flex-start;
+    }
+    @media (max-width: 740px) {
+      .box2 {
+        align-self: center;
+      }
+      .c2{
+        display: none;
+      }
+    }
+  </Style>
   <div class="container">
     <div class="box1">
         <img class="c1" height="180em"
@@ -21,41 +53,9 @@
           src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=i&logoColor=white"
           target="_blank"></a>
     </div>
+  </div>
+</body>
 </html>
-
-<Style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
-
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .box1 {
-    text-align: center;
-  }
-
-  .box2 {
-    text-align: center;
-    align-self: flex-start;
-  }
-
-  @media (max-width: 740px) {
-    .box2 {
-      align-self: center;
-    }
-    .c2{
-      display: none;
-    }
-  }
-</Style>
 <!--
 **PedroLMaia/PedroLMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
