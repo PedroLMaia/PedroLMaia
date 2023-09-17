@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;height: 100vh; margin: 0;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 10px;">
     <div style=" text-align: center;">
       <img class="c1" height="180em"
