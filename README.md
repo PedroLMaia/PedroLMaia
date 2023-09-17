@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/b2322d43a5f784da45e47def870b1fb00be5a358/OndaReversa.svg" width="1000" height="120">
+</p>
 <div align="center">
-  &nbsp;<img src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api/top-langs/?username=PedroLMaia&layout=compact&langs_count=7&theme=merko" width="300" height="190"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true" width="460" height="190"/>&nbsp;
+  <img src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api/top-langs/?username=PedroLMaia&layout=compact&langs_count=8&theme=merko" width="300" height="190"/>
+  <img src="https://git-stats-private-git-main-pedrolmaia.vercel.app/api?username=PedroLMaia&show_icons=true&theme=merko&include_all_commits=true&count_private=true" width="460" height="190" w/>
 </div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/b2322d43a5f784da45e47def870b1fb00be5a358/Onda.svg" width="1000" height="120">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/22367c8985e4ca216d6088f9fbdbccfe3f4ba1e0/Ondas.svg" width="100%" height="110">
