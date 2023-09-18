@@ -9,7 +9,12 @@
     </div>
 </div>
 
+<div align="start">
+
 ![](https://komarev.com/ghpvc/?username=PedroLMaia&color=009000)
+
+</div>
+
 # Hi there!
 Welcome to my GitHub profile! I'm a Brazilian software engineer specializing in web application development. I have a passion for crafting innovative solutions and contributing to the coding community. I'm here to share my projects and insights with the world.
 
