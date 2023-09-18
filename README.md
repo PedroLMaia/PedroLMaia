@@ -10,7 +10,7 @@
 </div>
 
 
-<div align="start">
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=PedroLMaia&color=009000)
 
