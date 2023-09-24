@@ -6,7 +6,6 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=PedroLMaia&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
     <div align="center">
         <img width="100%" height="80px" src="https://raw.githubusercontent.com/PedroLMaia/PedroLMaia/b2322d43a5f784da45e47def870b1fb00be5a358/Onda.svg"/>
-        
     </div>
 </div>
 
